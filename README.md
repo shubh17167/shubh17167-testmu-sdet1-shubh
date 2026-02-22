@@ -25,7 +25,9 @@ AI Integration: OpenAI API (real call)
 
 Environment Handling: python-dotenv
 
-🔹 Folder Structure
+## 📁 Folder Structure
+
+```text
 testmu-sdet1-shubh/
 │
 ├── tests/
@@ -40,7 +42,7 @@ testmu-sdet1-shubh/
 ├── README.md
 ├── .env (excluded from Git)
 ├── .gitignore
-
+```
 The structure separates:
 
 UI layer
