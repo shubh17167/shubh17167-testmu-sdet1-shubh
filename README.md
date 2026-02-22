@@ -198,8 +198,10 @@ Integrate into CI pipeline
 
 Track recurring failure patterns using LLM clustering
 
-📋 How to Run
-1️⃣ Install dependencies
+## 🚀 How To Run
+
+### 1️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
 playwright install
 2️⃣ Add OpenAI API Key
